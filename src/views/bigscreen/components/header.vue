@@ -5,11 +5,6 @@
  * @LastEditTime: 2023-06-24 23:51:49
  * @Description: 大屏头部
 -->
-<!--
- * @Author: liyoro
- * @since: 2022-05-10 11:01:05
- * @lastTime: 2022-05-20 10:29:55
--->
 <template>
   <div class="bs-header">
     <div class="manage" @click="homeClick">
